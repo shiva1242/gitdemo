@@ -1,2 +1,2 @@
 server
-Windows
+Windows,Unix
